@@ -1,0 +1,9 @@
+# Ignorar todos os arquivos e pastas na raiz acima do projeto
+../*
+
+# Exceto os arquivos e pastas do projeto atual
+!./
+
+# Ignorar arquivos específicos dentro do projeto, se necessário
+*.log
+*.tmp
